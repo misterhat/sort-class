@@ -1,0 +1,26 @@
+{
+  "name": "sort-class",
+  "version": "1.0.0",
+  "description": "sort class methods in js source",
+  "keywords": [
+    "class",
+    "members",
+    "sort"
+  ],
+  "homepage": "https://github.com/misterhat/sort-class#readme",
+  "bugs": {
+    "url": "https://github.com/misterhat/sort-class/issues"
+  },
+  "license": "GPL-3.0+",
+  "author": "Mister Hat <misterhat144@gmail.com>",
+  "main": "index.js",
+  "bin": "node index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterhat/sort-class.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {}
+}
