@@ -1,6 +1,6 @@
 {
   "name": "sort-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sort class methods in js source",
   "keywords": [
     "class",
@@ -14,7 +14,7 @@
   "license": "GPL-3.0+",
   "author": "Mister Hat <misterhat144@gmail.com>",
   "main": "index.js",
-  "bin": "node index",
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/misterhat/sort-class.git"
